@@ -15,9 +15,10 @@ docker build -t intuit-case-2
 docker run intuit-case-2
 
 # EXPECTED OUTPUT BELOW
-# NOTE: For Part 3, API keys will be used during online interview on Friday
-# NOTE: This will use docker run --env-file .env intuit-case-2
 ```
+**NOTE**: For Part 3, API keys will be used during online interview on Friday
+
+**NOTE**: This will use `docker run --env-file .env intuit-case-2`
 ```
 ###############################################################################
 PART 1: Simple moving average of the last three months
